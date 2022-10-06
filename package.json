@@ -1,0 +1,36 @@
+{
+  "name": "html-boilerplate",
+  "version": "1.0.0",
+  "description": "Tailwind VanillaJS Boilerplate",
+  "main": "index.js",
+  "author": "Hung Vu",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@tailwindcss/line-clamp": "^0.4.2",
+    "@tailwindcss/typography": "^0.5.7",
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.17",
+    "postcss-import": "^15.0.0",
+    "postcss-import-ext-glob": "^2.0.1",
+    "prettier": "^2.7.1",
+    "prettier-plugin-tailwindcss": "^0.1.13",
+    "tailwindcss": "^3.1.8",
+    "vite": "^3.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vunamhung/html-boilerplate.git"
+  },
+  "keywords": [
+    "html5"
+  ],
+  "bugs": {
+    "url": "https://github.com/vunamhung/html-boilerplate/issues"
+  },
+  "homepage": "https://github.com/vunamhung/html-boilerplate#readme"
+}

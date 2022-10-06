@@ -1,0 +1,2 @@
+@import-glob 'css/tailwind.css';
+@import-glob 'css/elements/*.css';
